@@ -25,7 +25,7 @@ What is the most preferred stay length?
 
 LIBRARIES USED
 
-Numpy
-Pandas
-Matplotlib
+Numpy,
+Pandas,
+Matplotlib,
 Seaborn
