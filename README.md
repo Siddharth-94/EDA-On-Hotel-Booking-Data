@@ -1,4 +1,4 @@
-Hotel-Booking-Analysis
+HOTEL BOOKING ANALYSIS
 
 Over the past couple of decades, travel and tourism industry has seen a massive surge in terms of profit. With more people having better lifestyles and resources to travel, Hotel businesses have been growing very rapidly and there is scope for more. Hotel business is a lucrative yet very volatile business segment. It’s dependent on multiple criteria like type of hotel, business seasons, customer segments, multiple modes of booking, amenities, services and many more. Starting a new Hotel business requires thorough data analysis on Industry, Customers, Competitors and many more. Which is what we are going to do in this project. Thorough Exploratory Data Analysis on guests, hotel type, bookings trend, pricing trend, distribution channels, people stay, etc. to draw out insights and make intelligent business decisions.
 
@@ -10,7 +10,7 @@ Primary objective is to explore and inspect the dataset; and discover important 
 
 Secondary objective is help the customers in deciding best period to visit places while availing low accommodation cost benefits.
 
-Motivation
+MOTIVATION
 
 To try and answer following questions from data:
 
@@ -23,7 +23,7 @@ What is the effect of different booking channels on reservation status?
 Is there any correlation between Booking, Pricing, Stay length, Cancellation, Parking and Guest revisiting with each other?
 What is the most preferred stay length?
 
-Libraries used
+LIBRARIES USED
 
 Numpy
 Pandas
